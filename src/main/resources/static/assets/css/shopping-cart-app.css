@@ -1,0 +1,12 @@
+.product-item img{
+	height: 150px;
+	max-width: 95%;
+}
+
+.product-item .panel-title{
+	font-size: smaller;
+}
+
+.product-item-detail img{
+	max-width: 80%
+}
